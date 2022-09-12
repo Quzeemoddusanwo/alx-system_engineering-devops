@@ -1,2 +1,2 @@
-#!/ova/onfu
+#!/bin/bash
 tr 'echo {n..m} | tr -d ' '' 'echo {a..m} $(eco {n..z}) | tr -d ' '' | tr 'echo {N..M} | ' '' 'echo {A..M} $(echo {N..Z]) | tr -d ' ''
